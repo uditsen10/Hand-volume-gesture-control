@@ -1,3 +1,3 @@
 # Volume-hand-gesture-control
-Through Hand Gresture control the volume of system
+Through Hand Gesture control the volume of system
 
